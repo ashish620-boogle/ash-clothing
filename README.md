@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# E-Commerce Website
+This is my first project in React.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Objective
+To build a fully functional shopping app.
+
+## Methods used
+I have used React to build the project.
 
 ## Available Scripts
 
@@ -68,3 +73,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
